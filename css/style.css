@@ -82,6 +82,20 @@ background-color: #fff;
 
 
 /* FOLLOWING */
-.following {
+.folowing {
     background-color: skyblue;
+}
+
+.folowing-heading {
+    font-size: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.folowing-list {
+    list-style: none;
+}
+
+
+.site-footer {
+    background-color: #222;
 }
